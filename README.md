@@ -1,3 +1,3 @@
 # OCR
 
-Optical Character Recognition on Scanned Documents.
+Optical Character Recognition on Scanned Images.
